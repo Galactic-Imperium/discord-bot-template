@@ -13,9 +13,9 @@
   "author": "dark angel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Eduardo20000000/discord.js-bot-template/issues"
+    "url": "https://github.com/Galactic-Imperium/discord-bot-template/issues"
   },
-  "homepage": "https://github.com/Eduardo20000000/discord.js-bot-template#readme",
+  "homepage": "",
   "dependencies": {
     "colors": "^1.4.0",
     "discord.js": "^14.7.1",
